@@ -16,4 +16,4 @@ This is a simple calculator prototype developed using **Axure RP 9**. The calcul
 ## Installation & Usage
 1. Clone the repository to your local machine:
    ```sh
-   git clone https:
+   git clone https:https://github.com/Apsara2001/HCI_Day3.git
